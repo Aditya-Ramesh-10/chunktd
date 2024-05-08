@@ -1,6 +1,6 @@
 # Chunked-TD
 
-The code in this repository supplements the paper "Sequence Compression Speeds Up Credit Assignment in Reinforcement Learning" (a link to the paper should be available soon).
+The code in this repository supplements the paper ["Sequence Compression Speeds Up Credit Assignment in Reinforcement Learning"](https://arxiv.org/abs/2405.03878).
 
 The current implementation of algorithms heavily favor clarity and flexibility over computational efficiency.
 
